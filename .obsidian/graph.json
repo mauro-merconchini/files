@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Games  ",
+      "color": {
+        "a": 1,
+        "rgb": 16729943
+      }
+    },
+    {
+      "query": "path:Movies  ",
+      "color": {
+        "a": 1,
+        "rgb": 2003199
+      }
+    },
+    {
+      "query": "path:TV  ",
+      "color": {
+        "a": 1,
+        "rgb": 3069299
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.25348275399275,
+  "lineSizeMultiplier": 1.23243859884579,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10.3771305864985,
+  "linkStrength": 1,
+  "linkDistance": 221,
+  "scale": 0.32423331244056464,
+  "close": true
+}

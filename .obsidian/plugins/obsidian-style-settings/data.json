@@ -1,0 +1,17 @@
+{
+  "red-graphite@@red-graphite-accent-color@@light": "#CB4C48",
+  "sanctum@@color-accent-rgb-d": "243, 90, 55",
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker",
+  "jotter@@border_style": "border-visible",
+  "jotter@@colorful-tooltips": true,
+  "jotter@@color-scheme": "ct-explorer",
+  "encore-settings@@encore-disable-grain": true,
+  "encore-settings@@encore-disable-logo-on-hr": true,
+  "encore-settings@@theme-dark": "encore-theme-dark-mercury",
+  "encore-settings@@encore-fancy-headers": true,
+  "encore-settings@@encore-translucency": false,
+  "encore-settings@@colors": "encore-colors-neutral",
+  "encore-settings@@encore-translucency-strength": 0.25,
+  "encore-settings@@encore-bright-accent": false,
+  "encore-settings@@encore-highlight-border": false
+}

@@ -1,0 +1,12 @@
+{
+  "accentColor": "#f53c3c",
+  "cssTheme": "Encore",
+  "baseFontSize": 18,
+  "showViewHeader": false,
+  "textFontFamily": "Inter",
+  "interfaceFontFamily": "Inter",
+  "enabledCssSnippets": [
+    "changethefuckingfont",
+    "center-images"
+  ]
+}

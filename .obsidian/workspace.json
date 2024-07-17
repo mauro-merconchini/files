@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "ca2677a8a11ba4b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b3cd1892c968389",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62ee23f8324b740c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Games/Selaco.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba9939b07a472d23",
+    "type": "split",
+    "children": [
+      {
+        "id": "bace5819034e9532",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f5ea6a565c125aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b09af9bfe999764",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e06c6154fb004119",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317.0026054382324
+  },
+  "right": {
+    "id": "6bb07f84aecd0711",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5a245e8edf3634d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fc0ee160d456fcd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Games/Selaco.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb1e28dbca2f7816",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Games/Selaco.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "652da0dbf606873a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ba6345f29853487e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Games/Selaco.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 352,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "62ee23f8324b740c",
+  "lastOpenFiles": [
+    "Games/Deus Ex.md",
+    "Movies/Escape from New York.md",
+    "Movies/Blazing Saddles.md",
+    "Movies/Knives Out and Glass Onion.md",
+    "Movies/Natural Born Killers.md",
+    "Movies/Oppenheimer.md",
+    "_attachments/Pasted image 20240714160222.png",
+    "Movies/Big Trouble in Little China.md",
+    "_attachments/Pasted image 20240713211957.png",
+    "_attachments/Pasted image 20240713211613.png",
+    "Games/Fallout 4.md",
+    "Untitled.canvas",
+    "Games/Steam Next Fest Demos - Feb 2024.md",
+    "Games/Steam Next Fest Demos - Jun 2024.md",
+    "Games/Disco Elysium.md",
+    "Games/Selaco.md",
+    "_attachments/Pasted image 20240617103352.png",
+    "_attachments/Pasted image 20240616183918.png",
+    "_attachments/Desktop 2024.06.16 - 17.29.27.01.mp4",
+    "_attachments/Pasted image 20240616175629.png",
+    "TV/Fallout.md",
+    "_attachments/Pasted image 20240610205947.png",
+    "_attachments/Pasted image 20240610204010.png",
+    "_attachments/borger_videofile.mp4",
+    "_attachments/Pasted image 20240601163924.png",
+    "_attachments/Fallout 4 Mods.md",
+    "_attachments/Pasted image 20240517223303.png",
+    "[[Fallout.md",
+    "the mod list.md",
+    "Games/Disco Elysium Notes.md",
+    "Untitled 1",
+    "Untitled",
+    "_attachments",
+    "Games/_attachments",
+    "Movies",
+    "TV",
+    "Games",
+    "Welcome.md",
+    "asdasd.md",
+    "_attachments/Tom Lehrer at 85 [104334].mp3"
+  ]
+}
